@@ -8,8 +8,7 @@
 .hero{
     min-height: 100vh;
     width: 100%;
-    /* background-image: url(images/79a384c3c449ad01b0e57e790807b2c0.gif); */
-    background: rgb(110, 110, 110);;
+    background-image: url(images/79a384c3c449ad01b0e57e790807b2c0.gif);
     background-position: center;
     background-repeat: no-repeat;
     background-size :100%;

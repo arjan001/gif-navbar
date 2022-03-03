@@ -72,7 +72,35 @@ nav ul li a{
 .hero button:hover {
     background: #05e992;
 }
+.indicator span{
+    display: inline-block;
+    background: #3a3a3a;
+    height: 15px;
+    width: 15px;
+    border: 50%;
+    border-radius: 50%;
+    margin-right: 10px;
 
+}
+
+.indicator{
+    margin-top: 150px;
+
+}
+
+.indicator span.active{
+    background: #86e905;
+
+}
+
+.cta{
+    position: absolute;
+    width: 25%;
+    min-width: 259px;
+    right: 8%;
+    bottom: 100px;
+    
+}
 
 
 
